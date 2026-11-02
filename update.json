@@ -1,5 +1,6 @@
 {
   "force": false,
   "message": "",
-  "appStoreId": ""
+  "appStoreId": "",
+  "cloneRequiresPro": true
 }
